@@ -13,9 +13,9 @@ from rich import print as rprint
 from rich import pretty
 from rich.text import Text as tekz
 input("\n\x1b[1;93m[\x1b[1;92m+\x1b[1;93m]\x1b[1;93m╰─>\x1b[1;92mMASUKKAN PASSWORD LOGIN SCRIPT \33[m[ \x1b[1;92mENTER \33[m]")
-Password = "" 
+Password = "1999" 
 
-print("\x1b[1;93m[\x1b[1;92m+\x1b[1;93m]\x1b[1;93m╰─>\x1b[1;92mUntuk Password Login Anda Bisa Download Di Samping Ini \x1b[1;93mhttps://sfile.mobi/rq0xWgJAYg7")
+print("\x1b[1;93m[\x1b[1;92m+\x1b[1;93m]\x1b[1;93m╰─>\x1b[1;92mUntuk Password Login Anda Bisa Download Di Samping Ini \x1b[1;93mhMETA.py")
 loop = 'true'
 while (loop == 'true'):
     passcode = input("\x1b[1;93m[\x1b[1;92m?\x1b[1;93m]\x1b[1;93m╰─>\x1b[1;92mMASUKAN PASSWORD LOGIN > \x1b[1;93m")
