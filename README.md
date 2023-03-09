@@ -20,3 +20,5 @@ git clone https://github.com/Ua2333/META
 cd META
 
 ls
+
+git pull
