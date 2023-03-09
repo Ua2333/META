@@ -21,4 +21,6 @@ cd META
 
 ls
 
-git pull
+git pull 
+
+python META.py
