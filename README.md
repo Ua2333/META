@@ -1,4 +1,4 @@
-# META
+# META PW:SEMOGA DAPAT BANG
 pkg update && pkg upgrade -y
 
 termux-setup-storage
